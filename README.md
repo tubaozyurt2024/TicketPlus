@@ -1,4 +1,4 @@
-#TicketPlus - Ticket Management System
+# TicketPlus - Ticket Management System
 ## 📖 Overview
 TicketPlus is a modern ticket management system built using microservices architecture. It allows users to efficiently manage ticket booking for various travel options. Leveraging Spring Boot, RabbitMQ, Redis, and PostgreSQL and and JWT (JSON Web Tokens), TicketPlus provides a robust and scalable solution for ticket management.
 
